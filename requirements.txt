@@ -1,4 +1,5 @@
-flask
+Flask
 cloudscraper
-beautifulsoup4
 requests
+beautifulsoup4
+brotli
