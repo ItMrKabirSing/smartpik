@@ -1,57 +1,20 @@
 [
     {
         "domain": ".freepik.com",
-        "expirationDate": 1783506411,
+        "expirationDate": 1752113157.846914,
         "hostOnly": false,
         "httpOnly": false,
-        "name": "_hjSessionUser_1331604",
-        "path": "/",
-        "sameSite": "no_restriction",
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "eyJpZCI6ImNlMGZmY2Y1LWIwNWItNTgyZC05MzE4LTkxNGRmNTUxNmQzZiIsImNyZWF0ZWQiOjE3MjA1MzE0ODc0NDMsImV4aXN0aW5nIjp0cnVlfQ=="
-    },
-    {
-        "domain": ".freepik.com",
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "panoramaId_expiry",
+        "name": "FP_TE",
         "path": "/",
         "sameSite": null,
         "secure": false,
-        "session": true,
-        "storeId": null,
-        "value": "1722273660704"
-    },
-    {
-        "domain": ".freepik.com",
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "ABTasty",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": true,
-        "storeId": null,
-        "value": "uid=2kxty1eh5bv8gdky&fst=1715712324499&pst=1715796663255&cst=1717784560373&ns=8&pvt=71&pvis=9&th="
-    },
-    {
-        "domain": ".freepik.com",
-        "expirationDate": 1751971942,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "_hjSession_1331604",
-        "path": "/",
-        "sameSite": "no_restriction",
-        "secure": true,
         "session": false,
         "storeId": null,
-        "value": "eyJpZCI6ImZiYTE1MzI2LTZiOGMtNGFkZC05YmJhLTExZTMxMWNmMzczNyIsImMiOjE3NTE5NzAxNDI0NDMsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjowLCJzcCI6MH0="
+        "value": "1752113076"
     },
     {
         "domain": ".freepik.com",
-        "expirationDate": 1786530413,
+        "expirationDate": 1786669692,
         "hostOnly": false,
         "httpOnly": false,
         "name": "ab.storage.sessionId.8086d9ee-1f81-4508-ba9f-3a661635ac90",
@@ -60,73 +23,35 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "g%3Ad8370880-fd34-77cb-d3cb-e5ed366eea31%7Ce%3A1752006413925%7Cc%3A1751970410418%7Cl%3A1751970413925"
+        "value": "g%3A99e0df4f-9bb4-1499-7eb5-b4f9e317560c%7Ce%3A1752145692679%7Cc%3A1752109485460%7Cl%3A1752109692679"
     },
     {
         "domain": ".freepik.com",
-        "expirationDate": 1759746412,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "_fbp",
-        "path": "/",
-        "sameSite": "lax",
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "fb.1.1751970412733.585930065734241517"
-    },
-    {
-        "domain": ".freepik.com",
-        "expirationDate": 1751977605.44799,
         "hostOnly": false,
         "httpOnly": false,
         "name": "ak_bmsc",
         "path": "/",
         "sameSite": null,
         "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "4DA9A4BF7B76F702166489217D2CF5B6~000000000000000000000000000000~YAAQJHg6F1F9MbGXAQAAEtiS6RyHGEI/m5y5iacXnY27hO+z8kJLc7SrxCbu9Qvp0Mq/ma/d9FYu1ZTJhMUgkZ1cfuyoBej/O08nbpEpFzA8YXWMtVCBQDmAQuAqrFjW18zOeOw579wA5Ct1A8T4lBjrRo0rhK27mA2XVZkZv6eERAtoEej7bodmJKvV5jzbX3JiAdH0EyIRvp9ExjANA3wK8xKnwQovUkbvvN9B9Yvuyp7A90FOWtxrwMoMEp95b2sg+ObwkDrq1ohNk1vELnxecfjfniIgEMLD3OlS+bHlTSzBEKN200+uDHK5TrZSk5uzK/Ix+zJLwijOT0fVDsSz0gTlyjzI2TklGNcgrdl8B8vYAeRPvHjCU7A6O5Wy0JQ="
-    },
-    {
-        "domain": ".freepik.com",
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "_hjDonePolls",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
         "session": true,
         "storeId": null,
-        "value": "1048562"
-    },
-    {
-        "domain": ".freepik.com",
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "_ga_Q29FZ8F7H4",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": true,
-        "storeId": null,
-        "value": "GS1.1.1721908612.5.1.1721908654.0.0.0"
-    },
-    {
-        "domain": ".freepik.com",
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "__gpi",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": true,
-        "storeId": null,
-        "value": "UID=00000a26c699f9bd:T=1715712453:RT=1721908612:S=ALNI_MYy5M5aEGT8kPTtCqvv46gp29cP3A"
+        "value": "5AEB5A88B27D94A303727F0044E59A97~000000000000000000000000000000~YAAQbuDEF3vLM3uXAQAA6az8nRxdRDv92lZjNqpN1i7Aw9IX6YKSKXQSbf88VmAIkIQknXoR5n5xbCH/tp9iMyFCV3r0miozt/KRym+JxPpKtcz8azTNkoEDIHcE5XSvT2aYaAW/WF8nc6LTPYEPhO3RyjN3MoZHNT3Z/HUgeoGLTlBxnUiVUWCnXLTH65tVQcmQyE7Dc/x3GKyycMOb1Ozo5xZP60wbyv2VP9ZrtIIADGr8B8V9g/BJuOAVS9RGJboofk4XneiYQMHcsizxQHH/6E9XMZCsJpG29D63fJLWfy/nACWy1MLiSYEroSuv5iz1vz7FrVGbWefsjkWJOO2rIGrugtdNCSCd6rx7G7zhqHR5duYwWWGuucQA4PepxjVR"
     },
     {
         "domain": "www.freepik.com",
-        "expirationDate": 1751974006.047212,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "cancellation_renewal_subscription",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "A"
+    },
+    {
+        "domain": "www.freepik.com",
+        "expirationDate": 1752113076.79234,
         "hostOnly": true,
         "httpOnly": false,
         "name": "FP_TE",
@@ -135,11 +60,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "1751974003"
+        "value": "1752113076"
     },
     {
         "domain": ".freepik.com",
-        "expirationDate": 1786530410.627218,
+        "expirationDate": 1786669691.938422,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_ga_QWX66025LC",
@@ -148,11 +73,24 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "GS2.1.s1751970141$o14$g1$t1751970410$j60$l0$h0"
+        "value": "GS2.1.s1752107961$o31$g1$t1752109691$j60$l0$h0"
+    },
+    {
+        "domain": "www.freepik.com",
+        "expirationDate": 1754006400,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "fpsp",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "1"
     },
     {
         "domain": ".freepik.com",
-        "expirationDate": 1786530410,
+        "expirationDate": 1786669692,
         "hostOnly": false,
         "httpOnly": false,
         "name": "ab.storage.userId.8086d9ee-1f81-4508-ba9f-3a661635ac90",
@@ -161,59 +99,23 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "g%3A72355546%7Ce%3Aundefined%7Cc%3A1751970410415%7Cl%3A1751970410421"
-    },
-    {
-        "domain": ".freepik.com",
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "_cc_id",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": true,
-        "storeId": null,
-        "value": "59070ca52f4a9a51b21df1cb508627f2"
+        "value": "g%3A72355546%7Ce%3Aundefined%7Cc%3A1748443687740%7Cl%3A1748443687742"
     },
     {
         "domain": "www.freepik.com",
         "hostOnly": true,
         "httpOnly": false,
-        "name": "csrf_freepik",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": true,
-        "storeId": null,
-        "value": "cf08ed596468d9fd0da21214ae2f44cd"
-    },
-    {
-        "domain": ".freepik.com",
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "panoramaIdType",
+        "name": "GRID",
         "path": "/",
         "sameSite": null,
         "secure": false,
         "session": true,
         "storeId": null,
-        "value": "panoIndiv"
+        "value": "72355546"
     },
     {
         "domain": ".freepik.com",
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "_cs_c",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": true,
-        "storeId": null,
-        "value": "0"
-    },
-    {
-        "domain": ".freepik.com",
-        "expirationDate": 1786530410.629413,
+        "expirationDate": 1786669691.939606,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_ga",
@@ -222,7 +124,7 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "GA1.1.519213853.1715712324"
+        "value": "GA1.1.1101663310.1748443582"
     },
     {
         "domain": ".freepik.com",
@@ -234,71 +136,23 @@
         "secure": false,
         "session": true,
         "storeId": null,
-        "value": "2024-05-14T18:45:24.805Z"
-    },
-    {
-        "domain": ".freepik.com",
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "__eoi",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": true,
-        "storeId": null,
-        "value": "ID=28a87051eb5eeab1:T=1715712453:RT=1721908612:S=AA-AfjYAbQcjMXBh2g9RE7dDzrC6"
-    },
-    {
-        "domain": ".freepik.com",
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "__gads",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": true,
-        "storeId": null,
-        "value": "ID=135198f96d9599ce:T=1715712453:RT=1721908612:S=ALNI_MZISv_LHBjEG_xUxJ5HnS8p8jG9Mg"
-    },
-    {
-        "domain": ".freepik.com",
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "_cs_ex",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": true,
-        "storeId": null,
-        "value": "1709818470"
+        "value": "2025-05-28T14:48:14.857Z"
     },
     {
         "domain": "www.freepik.com",
         "hostOnly": true,
         "httpOnly": false,
-        "name": "_fcid",
+        "name": "sb-prefs",
         "path": "/",
         "sameSite": null,
         "secure": false,
         "session": true,
         "storeId": null,
-        "value": "FC.e4b7e55d-6ddf-e02b-30bd-596484828896"
+        "value": "{%22mode%22:%22anchored%22%2C%22submenus%22:{%22site%22:null%2C%22user%22:%22workspace%22}}"
     },
     {
         "domain": ".freepik.com",
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "_ga_18B6QPTJPC",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": true,
-        "storeId": null,
-        "value": "GS1.1.1721908612.5.1.1721908654.18.0.0"
-    },
-    {
-        "domain": ".freepik.com",
-        "expirationDate": 1759746142,
+        "expirationDate": 1756219580,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_gcl_au",
@@ -307,23 +161,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "1.1.327274376.1751970142"
-    },
-    {
-        "domain": "www.freepik.com",
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "_hjHasCachedUserAttributes",
-        "path": "/",
-        "sameSite": "no_restriction",
-        "secure": true,
-        "session": true,
-        "storeId": null,
-        "value": "true"
+        "value": "1.1.876732485.1748443580"
     },
     {
         "domain": ".freepik.com",
-        "expirationDate": 1786530410,
+        "expirationDate": 1786669692,
         "hostOnly": false,
         "httpOnly": false,
         "name": "ab.storage.deviceId.8086d9ee-1f81-4508-ba9f-3a661635ac90",
@@ -332,31 +174,7 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "g%3A37734e9a-e597-06f1-0fa4-7dba59a3e167%7Ce%3Aundefined%7Cc%3A1720531448240%7Cl%3A1751970410420"
-    },
-    {
-        "domain": "www.freepik.com",
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "ads-tag",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": true,
-        "storeId": null,
-        "value": "b"
-    },
-    {
-        "domain": ".freepik.com",
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "cto_bundle",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": true,
-        "storeId": null,
-        "value": "AxugVF9ocXk0Y1gybWx6blpWa2pKYmolMkZaZ0J6WVd6YW8lMkJQUmVpOTdYbldPNkQzTklBT0NRMk5WeVJNclBJZFpJOGhHZzlMTERRVWY2Y2JiZEVWd0plVCUyRjNZdnFpTzJGTVJTQlRZbFhCWElmYUtGNVNMQW56dUV4dWVKYlRNWkdLZ1lhc3NsZ0REVUZSZzhQS3hKdCUyRk43Vk5KQSUzRCUzRA"
+        "value": "g%3A50afbc8a-0043-c1b1-36f7-5acc8478ed65%7Ce%3Aundefined%7Cc%3A1748443687742%7Cl%3A1748443687742"
     },
     {
         "domain": "www.freepik.com",
@@ -371,20 +189,33 @@
         "value": "1"
     },
     {
-        "domain": "www.freepik.com",
-        "hostOnly": true,
+        "domain": ".freepik.com",
+        "expirationDate": 1752113157.846769,
+        "hostOnly": false,
         "httpOnly": false,
-        "name": "g_state",
+        "name": "FP_MBL",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "1"
+    },
+    {
+        "domain": ".freepik.com",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "GR_LGURI",
         "path": "/",
         "sameSite": null,
         "secure": false,
         "session": true,
         "storeId": null,
-        "value": "{\"i_l\":0}"
+        "value": "https://br.freepik.com/"
     },
     {
         "domain": ".freepik.com",
-        "expirationDate": 1754562406.447649,
+        "expirationDate": 1754701477.231187,
         "hostOnly": false,
         "httpOnly": true,
         "name": "GR_REFRESH",
@@ -393,11 +224,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "AMf-vBy5v3huNJZZQ-V-qwP5-q62irnApV7Lu7Ce6YL1cMPQXEVB0jKFtV5qAbC-s9J2wM7x-LrVf2R31Eqym4PV9BNYCVzIrjSvZ0MB6vTULA_JiVmMPbfWz2vWl1CIcaxBuqiw8BlYXED7wJAZvVYTFJSO9kBFsF4Lf50qp-nk2AFYuJmS2Bq7zUHctyAG2byXuCeh9dlC"
+        "value": "AMf-vBxp5dMKrv6aWbm2ZOvtDojcKk7I86R2wBk_yXv49a8v3ymcpMOEVavwbYwqrJ7Ps-q2dlyNN5VFxu427hxaQzMaVImmz26kdisjgQqnqNR50pcBNTvfgkIrqtoFiNGzxDNtEqBflNYzqpxWQWP2CJCaeZtPp3A3v95U7zN0tWtjOc-NvZUxLxFtWIMtbEsaFAEHmjgh"
     },
     {
         "domain": ".freepik.com",
-        "expirationDate": 1751974006.447182,
+        "expirationDate": 1752113077.230974,
         "hostOnly": false,
         "httpOnly": true,
         "name": "GR_TOKEN",
@@ -406,23 +237,24 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjQ3YWU0OWM0YzlkM2ViODVhNTI1NDA3MmMzMGQyZThlNzY2MWVmZTEiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoidXNlcjM2OTQyODM4IiwicGljdHVyZSI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hLS9BT2gxNEdpc0tZd3dUSmhwY2tsUFlKcW1oRHBlRk9rcFlVUnZla0xoVXp4QjZqMD1zOTYtYyIsImFjY291bnRzX3VzZXJfaWQiOjM2OTQyODM4LCJzY29wZXMiOiJmcmVlcGlrL2ltYWdlcyBmcmVlcGlrL3ZpZGVvcyBmbGF0aWNvbi9wbmcgZmxhdGljb24vc3ZnIiwiaXNzIjoiaHR0cHM6Ly9zZWN1cmV0b2tlbi5nb29nbGUuY29tL2ZjLXByb2ZpbGUtcHJvLXJldjEiLCJhdWQiOiJmYy1wcm9maWxlLXByby1yZXYxIiwiYXV0aF90aW1lIjoxNzIwNTMxNDE0LCJ1c2VyX2lkIjoiY2VlNjYwZWYxNmU5NGNjYzlhN2QxMGYxMzhjYzBjNDciLCJzdWIiOiJjZWU2NjBlZjE2ZTk0Y2NjOWE3ZDEwZjEzOGNjMGM0NyIsImlhdCI6MTc1MTk3MDQwMywiZXhwIjoxNzUxOTc0MDAzLCJlbWFpbCI6ImNvbWVyY2lhbGdvbWlkaWFAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZ29vZ2xlLmNvbSI6WyIxMDg5OTA1NjE0OTcwNTg3NjE5MjMiXSwiZW1haWwiOlsiY29tZXJjaWFsZ29taWRpYUBnbWFpbC5jb20iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJjdXN0b20ifX0.nhd8drU8kz56zscgs2UTFyZkTlvtD187rCu3gqRk7Apz9tYKDvA1QWwxtVEOns8RvKEPSiBRuHuyy7oUKEpKr4tiLUVo6_pMs7EjItK1Le9GL99diLilgBuJnkRPCwZh5wflX9KiGliASBWF6M42AKcEKSCDakDqGwGpo7BEOi9oZpyjcBPXAdF8oYkBSNGLEALtlhu5WWAw55KTx6mqnJ41ftPfgeu1B8UIqaBLbIQcyewF_Rj2G4vej7Vd6v5MRRY6w-QAGgN2hgd0-3lJNwbcRpXpmbADIdF_3lgSWx0ikC0IzIYBsoyjH1r7kwcElGy7EIMkbYWzPlnO1pMxVw"
+        "value": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjQ3YWU0OWM0YzlkM2ViODVhNTI1NDA3MmMzMGQyZThlNzY2MWVmZTEiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoidXNlcjcyMzU1NTQ2IiwicGljdHVyZSI6Imh0dHBzOi8vYXZhdGFyLmNkbnBrLm5ldC9kZWZhdWx0XzAxXzMxM3gzMTMucG5nIiwiYWNjb3VudHNfdXNlcl9pZCI6NzIzNTU1NDYsInNjb3BlcyI6ImZyZWVwaWsvaW1hZ2VzIGZyZWVwaWsvdmlkZW9zIGZsYXRpY29uL3BuZyBmbGF0aWNvbi9zdmciLCJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vZmMtcHJvZmlsZS1wcm8tcmV2MSIsImF1ZCI6ImZjLXByb2ZpbGUtcHJvLXJldjEiLCJhdXRoX3RpbWUiOjE3NDg0NDM2OTYsInVzZXJfaWQiOiI4YjljZGE5ZDE5Mjg0ODc1YTQzYWNjZGM0YjQ1MGQ4ZSIsInN1YiI6IjhiOWNkYTlkMTkyODQ4NzVhNDNhY2NkYzRiNDUwZDhlIiwiaWF0IjoxNzUyMTA5NDc2LCJleHAiOjE3NTIxMTMwNzYsImVtYWlsIjoicGdpcGxheS5lZGljYW9AZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZ29vZ2xlLmNvbSI6WyIxMDQ2Njk1MTkwNjY3MzA1NTE0MjciXSwiZW1haWwiOlsicGdpcGxheS5lZGljYW9AZ21haWwuY29tIl19LCJzaWduX2luX3Byb3ZpZGVyIjoiY3VzdG9tIn19.wB8_-iMH58532EJYsp9C_jUBEOUPJdEnJN8jJt7FD2iN-C-anKgKJqGztz2Umj9sVoyAxJwRvfZ_sq73yaKHWzw7-LGKacVoZCKtbh_2Mms8Lu9p7f6L-0CGvHE5SYgW8-stIDjvd4kajbRk7UAysmTMIpNl_1qXVurQHCmdu53TfAGHZhYNvg5rsE5kkgjfZVixmEnlxJGCjvnXlGihBsBm6AMsSeUb8NtK8_LgDI47kcD4679-vK6u7KQlVXvfxBpoEIdJDO75GV88dZh6eAd8sodAG5oK7VcJ8vHNltYAylsjHVbZlGMpIn37M6zDQPcyNMT0xUTZERINivT6Sg"
     },
     {
         "domain": ".freepik.com",
+        "expirationDate": 1754701482.406545,
         "hostOnly": false,
         "httpOnly": false,
         "name": "GRID",
         "path": "/",
         "sameSite": null,
         "secure": false,
-        "session": true,
+        "session": false,
         "storeId": null,
-        "value": "36942838"
+        "value": "72355546"
     },
     {
         "domain": ".freepik.com",
-        "expirationDate": 1783506412,
+        "expirationDate": 1783645692,
         "hostOnly": false,
         "httpOnly": false,
         "name": "OptanonConsent",
@@ -431,19 +263,7 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "isGpcEnabled=0&datestamp=Tue+Jul+08+2025+16%3A26%3A52+GMT%2B0600+(Bangladesh+Standard+Time)&version=202505.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1%2CC0005%3A1&geolocation=BR%3BGO&AwaitingReconsent=false&consentId=b94e8e05-46c8-452b-aabb-26fa52b5cb70&interactionCount=0&isAnonUser=1"
-    },
-    {
-        "domain": ".freepik.com",
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "panoramaId",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": true,
-        "storeId": null,
-        "value": "be4c6ac072c67de08f368baee0a1bd9563ce31c0a7ffd843a8f215b62e2d8740"
+        "value": "isGpcEnabled=0&datestamp=Thu+Jul+10+2025+07%3A08%3A12+GMT%2B0600+(Bangladesh+Standard+Time)&version=202505.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0fb5db30-30be-435e-b3da-5d238655bc11&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0%2CC0005%3A0&AwaitingReconsent=false&intType=3&geolocation=BR%3BMS"
     },
     {
         "domain": "www.freepik.com",
@@ -456,5 +276,17 @@
         "session": true,
         "storeId": null,
         "value": "1"
+    },
+    {
+        "domain": "www.freepik.com",
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "UID",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": true,
+        "storeId": null,
+        "value": "72355546"
     }
 ]
